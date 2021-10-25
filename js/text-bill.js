@@ -3,6 +3,7 @@ var callsTotal = 0;
 var smsTotal = 0;
 
 // the event listener is declared below here
+
 function textBillTotal(){
     // get the value entered in the billType textfield
     var billTypeEntered = billTypeText.value.trim();
